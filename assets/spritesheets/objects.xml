@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a5f7812ae8c33ded5f1cfafee4c1d277:466eb87c291e3282ee4e34bb5b50c645:02aad285530ef8b4203fed9a3c4d37f4$ -->
+<TextureAtlas imagePath="objects.png">
+    <SubTexture name="cone" x="2" y="2" width="112" height="126" frameX="-8" frameY="-2" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="cube" x="116" y="2" width="106" height="120" frameX="-11" frameY="-8" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="sphere" x="2" y="130" width="118" height="120" frameX="-5" frameY="-8" frameWidth="128" frameHeight="128"/>
+</TextureAtlas>
